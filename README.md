@@ -14,7 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ---
 
 ## Tecnologias Utilizadas
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
@@ -29,5 +28,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 **Maria Eduarda Brandão**
 
 Estudante de Desenvolvimento de Sistemas pelo SENAI Sorocaba, atualmente cursando o 3º semestre e iniciando sua trajetória no desenvolvimento Full Stack.
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
